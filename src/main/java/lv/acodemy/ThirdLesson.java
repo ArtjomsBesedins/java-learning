@@ -172,5 +172,6 @@ public class ThirdLesson {
             System.out.println(z);
             z++;
         } while (z <= 5);
+        System.out.println(z);
     }
 }
